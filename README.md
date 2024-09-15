@@ -382,7 +382,7 @@ The canister is initialized with the following optional arguments:
 
 ## Design Documents
 
-Design documents can be found in the design documents folder in this repository. [View Design Documents](https://github.com/KnowledgeFound/Coding4Integrity-DeComm-Hackathon/tree/master/DesignDocs/)
+Design documents can be found in the design documents folder in this repository. [View Design Documents](ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh)
 
 ## Additional Notes:
 
